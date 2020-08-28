@@ -1,2 +1,2 @@
 # petbook
-social media for pets .. give your pet a social life
+A social media website for Pet lovers and Pets.
